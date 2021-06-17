@@ -1,0 +1,18 @@
+# Best Widget Ever also known as: BWE
+
+## Product specification for BWE
+### Uses an ESP32 to acheive universal peace and prosperity by ....
+
+Feature list:
+- Winks and LED to assure users of normal opperation
+- Cures all desease
+- Makes clean energy
+- Restores the environment and climate
+- Brings back interesting extinct species and tests them for safty
+- Time travles to the library of Alexeandera and copies contents with out changing the past
+- Proves that eggs came before chickens
+
+
+
+
+
