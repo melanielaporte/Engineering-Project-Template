@@ -6,7 +6,7 @@ Idea for a template for doucmentation to help beginners when developing a projec
 
 Folders:  
 - firmware, holds firmware for BWE
-- parts, holds specifications for all parts for PCB and enclosure etc.
+- parts, holds specifications for all parts for PCB and enclosure etc. This folder has subfolders and a simple "Parts Master" spread sheet.
 - pcb, holds the schematic and PCB design files.
 - assembly, holds the folders and files for assembly of the PCB and the BWE.
 - testing, holds the test procedure and testing specifications for BWE.
