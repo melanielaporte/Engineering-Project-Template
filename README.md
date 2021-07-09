@@ -12,6 +12,7 @@ Folders:
 - testing, holds the test procedure and testing specifications for BWE.
 
 ## This project milestones
+From start of design to first production.
 - Drawings for all parts in folders, electrical and mechanical 
 - Update parts master to assign PartNumbers
 - Schematic release V0.0.1 for initial review
@@ -26,6 +27,10 @@ Folders:
 - Milestone: PCB mechanical fit test, (PCB mockup with connector fits enclosure with cables etc...)
 - Component placement for optimum routing and heat and Electromatnetic compatibility.  Then route.
 - Review by fabricator of PCB against design rules.
+- Inventory and order parts including PCB and stencile.
+- Assemble first unit(s) and engineering test.
+- Engineering revise and relese for rest of Prototype Run. Update of engineering, sales, legal documentation with photographs measurements of real hardware.
+- Changes and repeat all of above for Pilot Run (First selleable units with serial numbers etc).
 
 
 
