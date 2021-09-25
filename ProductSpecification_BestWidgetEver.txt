@@ -1,7 +1,7 @@
 # Best Widget Ever also known as: BWE
 
-## Product specification for BWE
-### Uses an ESP32 to acheive universal peace and prosperity by ....
+## Product Functional specification for BWE
+Reference: https://doyouevenerp.com/functional-vs-technical-specifications/
 
 Feature list:
 - Winks and LED to assure users of normal opperation
