@@ -1,6 +1,8 @@
 # Best Widget Ever also known as: BWE
 
 ## Project plan for BWE
+## Write and maingain both Functional Specifications and Technical Specifications.
+Refere to: https://doyouevenerp.com/functional-vs-technical-specifications/
 
 Folders:  
 - firmware, holds firmware for BWE
