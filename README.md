@@ -23,7 +23,6 @@ From start of design to first production.
 - Update Schematic release V0.0.2 etc...
 - Setup PCB software or train self for PCB manufacturing design rules.
 - Schematic approved for start of PCB layout V0.1.xx  Passes schematic design rules check.
-- Setup PCB design rules.
 - Assign and place PCB part number on PCB.
 - Enclosure design review. (Make card board mock up, Cable mock up. PCB mock up.) Make sure of clearance around all mounting hardware for screw / nut drivers.
 - Enclosure design freeze for prototype PCB. PCB outline and connector placement freeze.
